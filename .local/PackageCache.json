@@ -122,6 +122,15 @@
         "C:\\Users\\Cassie\\.nuget\\packages\\uipath.pdf.activities/3.1.0\\lib/net461/UiPath.PDF.Activities.dll",
         "C:\\Users\\Cassie\\.nuget\\packages\\uipath.pdf.activities/3.1.0\\lib/net461/UiPath.PDF.dll"
       ]
+    },
+    {
+      "Package": {
+        "Id": "MavenickConsulting.AutocloseMsgBox.Activities",
+        "Version": "1.1.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\Cassie\\.nuget\\packages\\mavenickconsulting.autoclosemsgbox.activities/1.1.2\\lib/AutoCloseMsgBox.dll"
+      ]
     }
   ],
   "Conflicts": [],
@@ -174,6 +183,11 @@
     "interop.domino.dll": {
       "Id": "interop.domino.dll",
       "Version": "1.0.0",
+      "Dependencies": []
+    },
+    "MavenickConsulting.AutocloseMsgBox.Activities": {
+      "Id": "MavenickConsulting.AutocloseMsgBox.Activities",
+      "Version": "1.1.2",
       "Dependencies": []
     },
     "Microsoft.AspNet.SignalR.Client": {

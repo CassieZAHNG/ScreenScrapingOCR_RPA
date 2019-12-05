@@ -3,6 +3,7 @@
   "description": "Scrape data from scanned PDF document using optical character recognition",
   "main": "Main.xaml",
   "dependencies": {
+    "MavenickConsulting.AutocloseMsgBox.Activities": "[1.1.2]",
     "UiPath.Excel.Activities": "[2.7.2]",
     "UiPath.Mail.Activities": "[1.7.2]",
     "UiPath.PDF.Activities": "[3.1.0]",
